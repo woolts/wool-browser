@@ -21,11 +21,7 @@ Wool Browser is a disappearing framework in a similar vein to [Svelte](https://s
 
 It is a functional library, with a single store of state at the root and stateless, declarative view functions that describe how that state is presented.
 
-It comprises three packages:
-
-- Wool Program
-- Wool HTML
-- Wool Layout
+It comprises three packages: [program](#wool-browser--program), [html](#wool-browser--html) and [ui](#wool-browser--ui).
 
 ## Wool Browser / Program
 
