@@ -17,7 +17,7 @@ wool-browser make . --outDir dist
 
 ## Philosophy
 
-Wool Browser is a disappearing framework in a similar vein to [Svelte](https://svelte.technology/). When compiled the framework code that is required is embedded into your app and the rest is ditched.
+Wool Browser is a disappearing framework in a similar vein to [Svelte](https://svelte.technology/). When compiled, the framework code that is required is embedded into your app and the rest is ditched.
 
 It is a functional library, with a single store of state at the root and stateless, declarative view functions that describe how that state is presented.
 
@@ -27,7 +27,7 @@ It comprises three packages:
 - Wool HTML
 - Wool Layout
 
-## Wool Program
+## Wool Browser / Program
 
 ```ts
 import { sandbox } from 'wool-browser/program';
@@ -39,7 +39,7 @@ const update = (model, msg) => model;
 export default sandbox({ init, view, update });
 ```
 
-## Wool HTML
+## Wool Browser / HTML
 
 A functional html library.
 
@@ -58,7 +58,7 @@ export default (model) =>
   );
 ```
 
-## Wool UI
+## Wool Browser / UI
 
 A functional layout library that composes `wool/html`.
 
