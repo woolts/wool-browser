@@ -1,0 +1,8 @@
+{
+  "name": "wool-browser/ui",
+  "version": "0.0.0",
+  "entry": "src/index.ts",
+  "dependencies": {
+    "wool/dom": true
+  }
+}

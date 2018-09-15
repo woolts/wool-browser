@@ -1,0 +1,5 @@
+{
+  "name": "wool-browser/html",
+  "entry": "src/index.ts",
+  "dependencies": {}
+}
