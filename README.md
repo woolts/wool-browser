@@ -1,6 +1,8 @@
 # Wool Browser
 
-This is a collection of packages for creating websites and web apps with [wool](https://github.com/woolts/wool).
+**This project is very early pre-alpha, not everything described here exists, and much of it will not work as expected.**
+
+Wool Browser is a collection of packages for creating websites and web apps with [wool](https://github.com/woolts/wool).
 
 ## Getting Started
 
