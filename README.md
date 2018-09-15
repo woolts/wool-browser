@@ -71,3 +71,7 @@ export default (model) =>
     ]),
   );
 ```
+
+## Credits
+
+The api design is heavily inspired by [elm](http://elm-lang.org/) and [elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/).
